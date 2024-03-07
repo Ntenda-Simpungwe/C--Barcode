@@ -1,0 +1,42 @@
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\bin\Debug\barcode scanner.exe.config
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\bin\Debug\barcode scanner.exe
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\bin\Debug\barcode scanner.pdb
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\bin\Debug\zxing.dll
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\bin\Debug\zxing.presentation.dll
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\bin\Debug\zxing.xml
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\bin\Debug\zxing.presentation.xml
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\obj\Debug\barcode scanner.csproj.AssemblyReference.cache
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\obj\Debug\barcode scanner.csproj.SuggestedBindingRedirects.cache
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\obj\Debug\MainWindow.g.cs
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\obj\Debug\App.g.cs
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\obj\Debug\barcode scanner_MarkupCompile.cache
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\obj\Debug\barcode scanner_MarkupCompile.lref
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\obj\Debug\MainWindow.baml
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\obj\Debug\barcode scanner.g.resources
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\obj\Debug\barcode_scanner.Properties.Resources.resources
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\obj\Debug\barcode scanner.csproj.GenerateResource.cache
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\obj\Debug\barcode scanner.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\obj\Debug\barcode scanner.csproj.CopyComplete
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\obj\Debug\barcode scanner.exe
+C:\Users\brand\source\repos\barcode scanner\barcode scanner\obj\Debug\barcode scanner.pdb
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\bin\Debug\barcode scanner.exe.config
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\bin\Debug\barcode scanner.exe
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\bin\Debug\barcode scanner.pdb
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\bin\Debug\zxing.dll
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\bin\Debug\zxing.presentation.dll
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\bin\Debug\zxing.xml
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\bin\Debug\zxing.presentation.xml
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\obj\Debug\barcode scanner.csproj.AssemblyReference.cache
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\obj\Debug\MainWindow.g.cs
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\obj\Debug\App.g.cs
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\obj\Debug\barcode scanner_MarkupCompile.cache
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\obj\Debug\barcode scanner_MarkupCompile.lref
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\obj\Debug\MainWindow.baml
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\obj\Debug\barcode scanner.g.resources
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\obj\Debug\barcode_scanner.Properties.Resources.resources
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\obj\Debug\barcode scanner.csproj.GenerateResource.cache
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\obj\Debug\barcode scanner.csproj.CoreCompileInputs.cache
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\obj\Debug\barcode scanner.csproj.CopyComplete
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\obj\Debug\barcode scanner.exe
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\obj\Debug\barcode scanner.pdb
+C:\Users\uptown\Documents\Education\C#\barcode scanner\barcode scanner\barcode scanner\obj\Debug\barcode scanner.csproj.SuggestedBindingRedirects.cache

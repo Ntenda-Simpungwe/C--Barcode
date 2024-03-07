@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a8cded90-9e18-44d4-9243-b7a44b28e47a": {
+      "ProjectGuid": "a8cded90-9e18-44d4-9243-b7a44b28e47a",
+      "DisplayName": "barcode scanner",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
